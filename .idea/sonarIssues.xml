@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pack/DefinitionTestSuite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pack/pages/DictionaryPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pack/steps/DefinitionSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pack/steps/serenity/EndUserSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/LaunchBrowser.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/log4j2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/awsLambda/lambda-selenium/lambda-selenium-java/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/awsLambda/lambda-selenium/lambda-selenium-java/serverless.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/awsLambda/lambda-selenium/lambda-selenium-java/src/main/java/com/blackboard/testing/lambda/LambdaSeleniumService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/cucumber.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/java/helpers/AutomationVariables.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/java/helpers/configs/EnvironmentFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/java/pageobjects/addNonCampaignPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/java/pageobjects/searchSOWPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/java/step_definitions/ExtendedCucumberRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/java/step_definitions/Hooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/java/step_definitions/RunCukesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/java/step_definitions/swopSteps/searchSOWSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/resources/config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/resources/features/swopExpansion/CreateSOW.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/resources/features/swopExpansion/ProjectSOW.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4July11/swopautomation/src/test/resources/features/swopExpansion/superUser.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/cucumber.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/features/SWOP.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/helpers/AutomationConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/helpers/AutomationVariables.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/helpers/configs/EnvironmentFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/AgencyPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/BaseClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/addAssetsPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/addNonCampaignPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/campaignSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/createCampaignPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/projectSOWPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/searchSOWPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/sowSummaryPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/pageobjects/sowcreate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/step_definitions/ExtendedCucumberRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/step_definitions/Hooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/step_definitions/RunCukesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/step_definitions/swopSteps/addAssetsSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/step_definitions/swopSteps/searchSOWSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/java/step_definitions/swopSteps/sowSummarySteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/TestData/InputData/AnnualBrandsUAT.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/TestData/InputData/ProjectBrandsUAT.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/SWOPFeatures/ApprovalProcess.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/SWOPFeatures/Campaign.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/SWOPFeatures/SOW.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/swopExpansion/ActivitiesPage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/swopExpansion/AgencyLandingPage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/swopExpansion/AssetPage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/swopExpansion/CampaignSummary.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/swopExpansion/CreateSOW.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/swopExpansion/SearchSOW.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/swopExpansion/Sync.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/unilever/SWOP Automation/R4May30/swopautomation/src/test/resources/features/swopExpansion/superUser.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
